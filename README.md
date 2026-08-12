@@ -4,7 +4,7 @@ Repository for my 3D printing models and designs.
 
 # Inspect
 
-https://mateuszoleksy.github.io/3DESIGNS/
+[https://mateuszoleksy.github.io/3DESIGNS/](https://mateuszoleksy.github.io/3Designs/)
 
 ## Printing setup
 - Slicer: Bambu Studio
